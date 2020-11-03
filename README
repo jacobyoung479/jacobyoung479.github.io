@@ -1,0 +1,8 @@
+bundle exec jekyll serve
+command for running locally
+
+styles are in _sass
+they get compiled into assets/css/styles.scss
+
+
+Just a home page for now.
